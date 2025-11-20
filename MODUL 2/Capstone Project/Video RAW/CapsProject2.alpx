@@ -1,0 +1,1033 @@
+{
+   "appclient" : {
+      "name" : "LUXEA Pro Video Editor 7",
+      "platform" : "Windows",
+      "version" : "7.1.4.2527"
+   },
+   "document" : {
+      "children" : [
+         {
+            "audio" : 0,
+            "children" : [],
+            "component" : "TRACK",
+            "defaulttitle" : "",
+            "enable" : 1,
+            "index" : 0,
+            "lock" : 0,
+            "title" : "",
+            "video" : 0,
+            "virtual" : 1
+         },
+         {
+            "audio" : 0,
+            "children" : [
+               {
+                  "component" : "IMAGE",
+                  "endtime" : 158.09999999999999,
+                  "id" : "51DE1B25-92F8-4BEB-90B4-5867B0AE8745",
+                  "properties" : {
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 0.94475859403610229
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 0,
+                           "internaloffsety" : 0,
+                           "internalscalex" : 1,
+                           "internalscaley" : 1
+                        },
+                        "position" : {
+                           "value" : [ 400.8951416015625, 225.50350952148438 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1080,
+                           "szmatrixwidth" : 1920
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 0.58240091800689697
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 0.58240091800689697
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 102.96666666666667,
+                  "title" : "2.jpg"
+               },
+               {
+                  "component" : "VIDEO",
+                  "endtime" : 886.63333333333344,
+                  "id" : "EF625306-FC49-4A43-9C16-82ADE986A9E5",
+                  "interendtime" : 717.39999999999998,
+                  "interstarttime" : 47.466666666666583,
+                  "properties" : {
+                     "audio" : {
+                        "enable" : true,
+                        "graphiceq" : {
+                           "which" : 0
+                        },
+                        "lcvolume" : {
+                           "value" : 0
+                        },
+                        "mute" : false,
+                        "panner" : {
+                           "value" : 0
+                        },
+                        "pitch" : {
+                           "value" : 0
+                        },
+                        "rcvolume" : {
+                           "value" : 0
+                        },
+                        "volume" : {
+                           "value" : 0
+                        }
+                     },
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 1
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 420,
+                           "internaloffsety" : -420,
+                           "internalscalex" : 1,
+                           "internalscaley" : 1
+                        },
+                        "position" : {
+                           "value" : [ 0, 0 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1920,
+                           "szmatrixwidth" : 1080
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 1
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 1
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 216.69999999999999,
+                  "title" : "2025_10_25_14_34_IMG_6090.MOV"
+               }
+            ],
+            "component" : "TRACK",
+            "defaulttitle" : "Track 4",
+            "enable" : 1,
+            "index" : 1,
+            "lock" : 0,
+            "title" : "Track 4",
+            "video" : 0,
+            "virtual" : 0
+         },
+         {
+            "audio" : 0,
+            "children" : [
+               {
+                  "component" : "IMAGE",
+                  "endtime" : 158.09999999999999,
+                  "id" : "BB4A0C75-C7A8-4527-99C2-E99479A7F07C",
+                  "properties" : {
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 1
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 0,
+                           "internaloffsety" : 0,
+                           "internalscalex" : 1,
+                           "internalscaley" : 1
+                        },
+                        "position" : {
+                           "value" : [ 400.89501953125, -225.5035400390625 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1080,
+                           "szmatrixwidth" : 1920
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 0.5824008584022522
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 0.5824008584022522
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 102.9666666666666,
+                  "title" : "3.jpg"
+               }
+            ],
+            "component" : "TRACK",
+            "defaulttitle" : "Track 3",
+            "enable" : 1,
+            "index" : 2,
+            "lock" : 0,
+            "title" : "Track 3",
+            "video" : 0,
+            "virtual" : 0
+         },
+         {
+            "audio" : 0,
+            "children" : [
+               {
+                  "component" : "VIDEO",
+                  "endtime" : 47.466666666666519,
+                  "id" : "EF625306-FC49-4A43-9C16-82ADE986A9E5",
+                  "interendtime" : 47.466666666666519,
+                  "interstarttime" : 0,
+                  "properties" : {
+                     "audio" : {
+                        "enable" : true,
+                        "graphiceq" : {
+                           "which" : 0
+                        },
+                        "lcvolume" : {
+                           "value" : 0
+                        },
+                        "mute" : false,
+                        "panner" : {
+                           "value" : 0
+                        },
+                        "pitch" : {
+                           "value" : 0
+                        },
+                        "rcvolume" : {
+                           "value" : 0
+                        },
+                        "volume" : {
+                           "value" : 0
+                        }
+                     },
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 1
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0.26882773637771606
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 420,
+                           "internaloffsety" : -420,
+                           "internalscalex" : 1,
+                           "internalscaley" : 1
+                        },
+                        "position" : {
+                           "value" : [ 773.5421142578125, -207.261474609375 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1920,
+                           "szmatrixwidth" : 1080
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 0.34809780120849609
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 0.34809780120849609
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 0,
+                  "title" : "2025_10_25_14_34_IMG_6090.MOV"
+               },
+               {
+                  "component" : "VIDEO",
+                  "endtime" : 102.96666666666667,
+                  "id" : "34EA99CD-5808-4B88-8221-9FB9ED0FCB35",
+                  "interendtime" : 55.5,
+                  "interstarttime" : 0,
+                  "properties" : {
+                     "audio" : {
+                        "enable" : true,
+                        "graphiceq" : {
+                           "which" : 0
+                        },
+                        "lcvolume" : {
+                           "value" : 0
+                        },
+                        "mute" : false,
+                        "panner" : {
+                           "value" : 0
+                        },
+                        "pitch" : {
+                           "value" : 0
+                        },
+                        "rcvolume" : {
+                           "value" : 0
+                        },
+                        "volume" : {
+                           "value" : 0
+                        }
+                     },
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 1
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0.17788232862949371
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 656,
+                           "internaloffsety" : 0,
+                           "internalscalex" : 0.56203705072402954,
+                           "internalscaley" : 0.5625
+                        },
+                        "position" : {
+                           "value" : [ -839.0543212890625, -330.90863037109375 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1920,
+                           "szmatrixwidth" : 1080
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 0.39181455969810486
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 0.39181455969810486
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 47.466666666666669,
+                  "title" : "2025_10_25_19_41_IMG_6094.MOV"
+               },
+               {
+                  "component" : "VIDEO",
+                  "endtime" : 158.09999999999991,
+                  "id" : "34EA99CD-5808-4B88-8221-9FB9ED0FCB35",
+                  "interendtime" : 110.63333333333323,
+                  "interstarttime" : 55.499999999999986,
+                  "properties" : {
+                     "audio" : {
+                        "enable" : true,
+                        "graphiceq" : {
+                           "which" : 0
+                        },
+                        "lcvolume" : {
+                           "value" : 0
+                        },
+                        "mute" : false,
+                        "panner" : {
+                           "value" : 0
+                        },
+                        "pitch" : {
+                           "value" : 0
+                        },
+                        "rcvolume" : {
+                           "value" : 0
+                        },
+                        "volume" : {
+                           "value" : 0
+                        }
+                     },
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 1
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0.00064427056349813938
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 656,
+                           "internaloffsety" : 0,
+                           "internalscalex" : 0.56203705072402954,
+                           "internalscaley" : 0.5625
+                        },
+                        "position" : {
+                           "value" : [ -557.81390380859375, 169.9075927734375 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1920,
+                           "szmatrixwidth" : 1080
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 1.3184715509414673
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 1.3184715509414673
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 102.96666666666667,
+                  "title" : "2025_10_25_19_41_IMG_6094.MOV"
+               }
+            ],
+            "component" : "TRACK",
+            "defaulttitle" : "Track 2",
+            "enable" : 1,
+            "index" : 3,
+            "lock" : 0,
+            "title" : "Track 2",
+            "video" : 1,
+            "virtual" : 0
+         },
+         {
+            "audio" : 1,
+            "children" : [
+               {
+                  "component" : "IMAGE",
+                  "endtime" : 47.466666666666669,
+                  "id" : "61F8E595-9869-42A7-A546-4BA29FE10E04",
+                  "properties" : {
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 1
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 0,
+                           "internaloffsety" : 0,
+                           "internalscalex" : 1,
+                           "internalscaley" : 1
+                        },
+                        "position" : {
+                           "value" : [ 0, 0 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1080,
+                           "szmatrixwidth" : 1920
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 1
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 1
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 0,
+                  "title" : "1.jpg"
+               },
+               {
+                  "component" : "IMAGE",
+                  "endtime" : 102.96666666666667,
+                  "id" : "51DE1B25-92F8-4BEB-90B4-5867B0AE8745",
+                  "properties" : {
+                     "composite" : {
+                        "blendmode" : 0,
+                        "opacity" : {
+                           "value" : 100
+                        }
+                     },
+                     "transform" : {
+                        "cropbottom" : {
+                           "value" : 1
+                        },
+                        "cropleft" : {
+                           "value" : 0
+                        },
+                        "cropright" : {
+                           "value" : 1
+                        },
+                        "croptop" : {
+                           "value" : 0
+                        },
+                        "internaldefault" : {
+                           "internaloffsetx" : 0,
+                           "internaloffsety" : 0,
+                           "internalscalex" : 1,
+                           "internalscaley" : 1
+                        },
+                        "position" : {
+                           "value" : [ 0, 0 ]
+                        },
+                        "scaleuniform" : 1,
+                        "szmatrix" : {
+                           "szmatrixheight" : 1080,
+                           "szmatrixwidth" : 1920
+                        },
+                        "xrotate" : {
+                           "value" : 0
+                        },
+                        "xscale" : {
+                           "value" : 1
+                        },
+                        "yrotate" : {
+                           "value" : 0
+                        },
+                        "yscale" : {
+                           "value" : 1
+                        },
+                        "zrotate" : {
+                           "value" : 0
+                        }
+                     }
+                  },
+                  "starttime" : 47.466666666666669,
+                  "title" : "2.jpg"
+               }
+            ],
+            "component" : "TRACK",
+            "defaulttitle" : "Track 1",
+            "enable" : 1,
+            "index" : 4,
+            "lock" : 0,
+            "title" : "Track 1",
+            "video" : 0,
+            "virtual" : 0
+         }
+      ],
+      "component" : "DOCUMENT",
+      "title" : ""
+   },
+   "mediabin" : [
+      {
+         "default" : 1,
+         "id" : "5B955F33-3C82-47C9-97EF-F66640E0329B",
+         "medias" : [
+            {
+               "caption" : "6.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "6CA8354D-75BF-49AA-BD44-107CC334E78E",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1092983,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\6.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "7.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "358852A7-A3CF-47FC-901D-FE580B31B762",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1411043,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\7.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "8.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "20538883-239F-4737-A5A6-039606E7FCFF",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1101330,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\8.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "9.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "9C0024A0-5CC9-4351-97C1-76B118B30783",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1372547,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\9.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "10.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "65E2C546-5E54-4BCF-90EE-BAF145074834",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 969504,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\10.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "11.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "67C4E7C9-B80C-4481-8D65-9583C4E7E6EB",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 899783,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\11.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "12.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "F284EE3F-C507-4582-B984-FC182BD49331",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 740759,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\12.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "13.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "9C8DBBE9-E2F0-4264-A2F1-75F788EAE5FE",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 831146,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\13.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "14.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "4BD4B2EE-4D25-4D62-944B-48DC52C77AE5",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1023520,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\14.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "15.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "DDE6386E-7384-406D-A288-603B781F5AB9",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1218546,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\15.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "16.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "C41AE902-668B-4116-BFE8-3973D17E927A",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1251508,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\16.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "17.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "98DDD923-E3CF-4291-9BDD-A1C2E052C7B0",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1280030,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\17.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "18.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "92126524-FED6-4E41-AB9D-B5D6BE486107",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 847546,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\18.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "19.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "3DC632C4-8D75-478C-9515-3E1C9CAB7E80",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 280312,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\19.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "20.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "53680441-FEAA-4060-AC2E-0C69A5FDCD74",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1493355,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\20.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "21.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "8E97D1D7-F6F2-4164-B025-AB6F035503DE",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1477189,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\21.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "22.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "FCDF25B2-F201-4B9E-BA4B-17ED02F0F49B",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1258842,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\22.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "1.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "61F8E595-9869-42A7-A546-4BA29FE10E04",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1698740,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\1.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "2.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "51DE1B25-92F8-4BEB-90B4-5867B0AE8745",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1342038,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\2.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "3.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "BB4A0C75-C7A8-4527-99C2-E99479A7F07C",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1622000,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\3.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "4.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "CC2F0B74-701F-4EDB-87AA-07085D92ABB7",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1502855,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\4.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "caption" : "5.jpg",
+               "colordepth" : 24,
+               "height" : 1890,
+               "id" : "AE4C2EEC-BA4B-4B0C-9522-7CBB5F83EFBB",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396360,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1417551,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\Analisis Data Perjalanan Taksi Green NYC Wawasan dan Strategi\\5.jpg",
+               "type" : 4,
+               "width" : 3360
+            },
+            {
+               "autodegree" : 90,
+               "bitrate" : 14998682,
+               "caption" : "2025_10_25_14_34_IMG_6090.MOV",
+               "codec" : "H264",
+               "duration" : 717.39999999999998,
+               "framerate" : 30,
+               "height" : 1080,
+               "id" : "EF625306-FC49-4A43-9C16-82ADE986A9E5",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761377685,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 1354102917,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\2025_10_25_14_34_IMG_6090.MOV",
+               "type" : 2,
+               "width" : 1920
+            },
+            {
+               "autodegree" : 90,
+               "bitrate" : 14979499,
+               "caption" : "2025_10_25_19_41_IMG_6094.MOV",
+               "codec" : "H264",
+               "duration" : 114.2,
+               "framerate" : 30,
+               "height" : 1080,
+               "id" : "34EA99CD-5808-4B88-8221-9FB9ED0FCB35",
+               "in" : 0,
+               "intime" : 0,
+               "lastmodification" : 1761396083,
+               "out" : 0,
+               "outtime" : 0,
+               "size" : 215273638,
+               "src" : "D:\\Purwadhika\\MODUL 2\\Capstone Project\\Video RAW\\2025_10_25_19_41_IMG_6094.MOV",
+               "type" : 2,
+               "width" : 1920
+            }
+         ],
+         "time" : 1761396291406,
+         "title" : "Folder"
+      }
+   ],
+   "project" : {
+      "auto" : 0,
+      "name" : "CapsProject2.alpx",
+      "settings" : {
+         "backgroundcolor" : {
+            "b" : 0,
+            "g" : 0,
+            "r" : 0
+         },
+         "framerate" : 64,
+         "height" : 1080,
+         "lockratio" : 0,
+         "proxy" : 1,
+         "scale" : 3,
+         "width" : 1920
+      },
+      "zip" : 0
+   }
+}
