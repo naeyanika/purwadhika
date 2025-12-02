@@ -15,7 +15,3 @@
 # Tetap ignore checkpoint/not cache
 **/.ipynb_checkpoints/**
 **/__pycache__/
-
-# Ignore embedded git repositories (prevent submodule gitlink entries)
-/seaborn-data/
-/MODUL 1/Capstone Project/
